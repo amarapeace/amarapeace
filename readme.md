@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **onwunzopeace@gmail**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ulezvuHcY5QdN5uQ0JryGLJxl8wAzc1E/view](https://drive.google.com/file/d/1ulezvuHcY5QdN5uQ0JryGLJxl8wAzc1E/view)
+- 📄 Know about my experiences in [My resume](https://drive.google.com/file/d/1ulezvuHcY5QdN5uQ0JryGLJxl8wAzc1E/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
