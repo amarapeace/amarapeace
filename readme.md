@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **mongodb**
 
-- 👨‍💻 All of my projects are available at [https://amara-portfolio.netlify.app](https://amara-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amara-portfolio.vercel.app](https://amara-portfolio.vercel.app/)
 
 - 💬 Ask me about **react**
 
